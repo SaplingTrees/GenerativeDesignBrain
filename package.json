@@ -1,0 +1,20 @@
+{
+  "name": "generativedesignproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "three": "^0.159.0"
+  },
+  "dependencies": {
+    "three-noise": "^1.1.2",
+    "vite": "^5.0.8"
+  }
+}
